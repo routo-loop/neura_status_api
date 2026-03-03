@@ -1,4 +1,4 @@
 {
-  "version": "2.1.0",
-  "changelog": "Version 2.1.0 introduces a major update with several new features and improvements. This release includes the new multiple accounts handling , Mobile Support and all previous bugs have been fixed along with overall performance improvements."
+  "version": "2.2.0",
+  "changelog": "Version 2.2.0 introduces a major update with several new features and improvements. This release includes the Queue System , Captcha Solvers ,Boss Battle Join and all previous bugs have been fixed along with overall performance improvements."
 }
