@@ -1,4 +1,4 @@
 {
-  "version": "2.2.0",
-  "changelog": "Version 2.2.0 introduces a major update with several new features and improvements. This release includes the Queue System , Captcha Solvers ,Boss Battle Join and all previous bugs have been fixed along with overall performance improvements."
+  "version": "2.3.0",
+  "changelog": "Version 2.3.0 brings an exciting update with several new features and improvements: New ReactionBot Listener, improved Configuration tab, enhanced Dashboard, added Shop cog, account-specific settings, and bug fixes. Overall performance and usability have been optimized."
 }
